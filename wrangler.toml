@@ -6,3 +6,8 @@ pages_build_output_dir = "dist"
 [vars]
 SITE_URL = "https://live.yybb.us"
 ADMIN_USERNAME = "Monitor"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "blog"
+database_id = "0887c0e8-0760-4df5-b15d-7cebb9e5f09f"   # 在 D1 控制台可以复制
