@@ -10,4 +10,4 @@ ADMIN_USERNAME = "Monitor"
 [[d1_databases]]
 binding = "DB"
 database_name = "blog"
-database_id = "0887c0e8-0760-4df5-b15d-7cebb9e5f09f"   # 在 D1 控制台可以复制
+database_id = "03cdb7ac-3cae-4c3d-95da-36bf9011380a"   # 在 D1 控制台可以复制
